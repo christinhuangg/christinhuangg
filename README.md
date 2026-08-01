@@ -1,8 +1,11 @@
+<p align="center">
+  <img src="ffa8a04306e63b29a789ee19877d36ab.jpg" alt="banner">
+</p>
 <div align="center"
   <p>
   <strong> hello there! i'm christine ( ദ്ദി ˙ᗜ˙ )</strong>
   </p>
-  <p align="center>
+  <p align="center">
     <a href="https://www.linkedin.com/in/christinehuangg/">
        <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=80" alt="linkedin" width="40">
     </a> 
