@@ -12,9 +12,6 @@
     </a>
   </p>
 </div>
-<p align="center">
-  <img src="ffa8a04306e63b29a789ee19877d36ab.jpg" alt="banner">
-</p>
 <br>
 <details>
   <summary>💻 tech stack</summary>
