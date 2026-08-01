@@ -2,7 +2,7 @@
   <p>
   <strong> hello there! i'm christine ( ദ്ദി ˙ᗜ˙ )</strong>
   </p>
-  <p align="center">
+  <p align="center>
     <a href="https://www.linkedin.com/in/christinehuangg/">
        <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=80" alt="linkedin" width="40">
     </a> 
